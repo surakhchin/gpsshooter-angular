@@ -21,9 +21,10 @@
       <mat-icon>bedtime</mat-icon>
     </mat-slide-toggle>
   </mat-toolbar>
+
   <mat-sidenav-container fxFlexFill class="example-container">
 
-    <mat-sidenav color="primary" #sidenav fxLayout="column" mode="over"  opened="false" fxHide.gt-sm="true">
+    <mat-sidenav color="primary" #sidenav fxLayout="column" mode="over" opened="false" fxHide.gt-sm="true">
       <div fxLayout="column">
         <a mat-button routerLink="/multi-player">Demo</a>
         <a mat-button routerLink="/about">About</a>
@@ -32,27 +33,33 @@
     </mat-sidenav>
     <mat-sidenav-content fxFlexFill>
 
-        <!--MAIN CONTENT OF THE APPLICATION-->
-<div style="display: flex; flex-direction: column; justify-content: space-between; height: 93vh">
-  <div style="border: 1px solid black">
-    <section>
-      <a mat-button routerLink="/single-player">Single-Player</a>
-      <a mat-button routerLink="/multi-player">Multi-Player</a>
-    </section>
-  </div>
-  <div style="border: 1px solid red">
-    <router-outlet></router-outlet>
-  </div>
-  <div style="border: 1px solid blue">
-    <footer >Copyright: 2020</footer>
-  </div>
-</div>
+
+
+
+      <!--MAIN CONTENT OF THE APPLICATION-->
+      <div style="display: flex; flex-direction: column; justify-content: space-between; height: 93vh">
+        <div style="border: 1px solid black">
+          <section>
+            <a mat-button routerLink="/single-player">Single-Player</a>
+            <a mat-button routerLink="/multi-player">Multi-Player</a>
+          </section>
+        </div>
+        <div style="border: 1px solid red">
+          <router-outlet></router-outlet>
+        </div>
+        <div style="border: 1px solid blue">
+          <footer>Copyright: 2020</footer>
+        </div>
+      </div>
+
 
 
 
 
 
     </mat-sidenav-content>
+
+
   </mat-sidenav-container>
 
 </div>

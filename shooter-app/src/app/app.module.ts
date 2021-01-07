@@ -14,7 +14,7 @@ import { AppRoutingModule } from "./app-routing/app-routing.module";
 import { FlexLayoutModule } from '@angular/flex-layout';
 import {FormsModule} from "@angular/forms";
 import {
-  MatIconModule, MatButtonModule, MatSidenavModule, MatToolbarModule, MatSlideToggleModule, MatCardModule
+  MatIconModule, MatButtonModule, MatSidenavModule, MatToolbarModule, MatSlideToggleModule, MatCardModule, MatGridListModule
 } from '@angular/material';
 
 
@@ -43,7 +43,8 @@ import {
     MatIconModule,
     MatButtonModule,
     MatSidenavModule,
-    MatCardModule
+    MatCardModule,
+    MatGridListModule
   ],
   providers: [],
   bootstrap: [AppComponent]
