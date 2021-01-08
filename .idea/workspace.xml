@@ -3,11 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="f029d775-edf0-4469-81dc-4fcb6344bd9b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter-app/src/app/about/about.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/about/about.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shooter-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter-app/src/app/contact/contact.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/contact/contact.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter-app/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/home/home.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter-app/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter-app/src/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/shooter-app/src/theme.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,58 +26,134 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="multi-player.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multi-player.component.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single-player.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="single-player.component.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="nav.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state>
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#footer#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#div#2;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#mat-toolbar#0;n#div#2;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.component.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.scss">
+      <file leaf-file-name="nav.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/home/home.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card-content#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/about/about.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-end-line="44" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card-content#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/contact/contact.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card-content#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#mat-card-content#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shooter-app/dist/shooter-app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/app-routing/routes.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app-routing.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shooter-app/src/app/app-routing/app-routing.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="18" />
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shooter-app/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -85,6 +169,7 @@
       <find>mat-toolbar</find>
       <find>companyName</find>
       <find>mat-sidenav-container</find>
+      <find>align-items: stretch;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,23 +178,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shooter-app/src/index.html" />
         <option value="$PROJECT_DIR$/shooter-app/package.json" />
         <option value="$PROJECT_DIR$/shooter-app/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/shooter-app/angular.json" />
-        <option value="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.ts" />
-        <option value="$PROJECT_DIR$/shooter-app/src/theme.scss" />
         <option value="$PROJECT_DIR$/shooter-app/src/app/app-routing/routes.ts" />
         <option value="$PROJECT_DIR$/shooter-app/src/app/app-routing/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/shooter-app/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/shooter-app/src/styles.scss" />
-        <option value="$PROJECT_DIR$/shooter-app/src/app/home/home.component.html" />
-        <option value="$PROJECT_DIR$/shooter-app/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.scss" />
-        <option value="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.html" />
         <option value="$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.scss" />
-        <option value="$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.html" />
         <option value="$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.html" />
+        <option value="$PROJECT_DIR$/shooter-app/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/shooter-app/src/styles.scss" />
+        <option value="$PROJECT_DIR$/shooter-app/src/theme.scss" />
+        <option value="$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.html" />
+        <option value="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.scss" />
+        <option value="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.ts" />
+        <option value="$PROJECT_DIR$/shooter-app/src/app/about/about.component.html" />
+        <option value="$PROJECT_DIR$/shooter-app/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.html" />
+        <option value="$PROJECT_DIR$/shooter-app/src/app/contact/contact.component.html" />
+        <option value="$PROJECT_DIR$/shooter-app/src/index.html" />
       </list>
     </option>
   </component>
@@ -1515,6 +1602,19 @@
               <item name="gpsshooter-angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="gpsshooter-angular" type="462c0819:PsiDirectoryNode" />
               <item name="shooter-app" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpsshooter-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpsshooter-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="shooter-app" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="shooter-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpsshooter-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpsshooter-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="shooter-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1523,6 +1623,14 @@
               <item name="shooter-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpsshooter-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpsshooter-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="shooter-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gpsshooter-angular" type="b2602c69:ProjectViewProjectNode" />
@@ -1531,6 +1639,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="app-routing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpsshooter-angular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpsshooter-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="shooter-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gpsshooter-angular" type="b2602c69:ProjectViewProjectNode" />
@@ -1576,6 +1692,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MEANStack2020" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/shooter-app/node_modules/typescript/lib" />
   </component>
   <component name="RunDashboard">
@@ -1615,7 +1732,7 @@
       <window_info anchor="bottom" id="Python Console" order="6" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="TypeScript" order="4" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1453125" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17083333" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -1658,13 +1775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shooter-app/angular.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
@@ -1672,10 +1782,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/node_modules/@angular/material/typings/button/index.metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret column="2042" selection-start-column="2042" selection-end-column="2042" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/home/home.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <marker date="1610058562180" expanded="true" signature="173:288" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shooter-app/src/theme.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="45" />
+        <state relative-caret-position="425">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -1683,6 +1829,128 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#1;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#mat-card#0;n#mat-grid-tile#1;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#1;n#mat-grid-list#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#1;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#mat-card#0;n#mat-grid-tile#1;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#1;n#mat-grid-list#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/about/about.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-end-line="44" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#mat-card#0;n#button#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#mat-card-content#0;n#button#0;n#mat-card#0;n#div#2;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#mat-toolbar#0;n#div#2;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/contact/contact.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#mat-card-content#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#mat-card-content#0;n#mat-card#0;n#mat-grid-tile#0;n#mat-grid-list#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/dist/shooter-app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1706,85 +1974,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/shooter-app/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/nav/nav.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#mat-sidenav-content#0;n#mat-sidenav-container#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/multi-player/multi-player.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shooter-app/src/app/single-player/single-player.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
