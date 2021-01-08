@@ -41,10 +41,10 @@ import {
     MatSlideToggleModule,
     FormsModule,
     MatIconModule,
-    MatButtonModule,
     MatSidenavModule,
     MatCardModule,
-    MatGridListModule
+    MatGridListModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]

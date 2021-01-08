@@ -12,7 +12,7 @@ export class NavComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.isDarkTheme = localStorage.getItem('theme') === "Dark" ? true : false;
+    this.isDarkTheme = localStorage.getItem('theme') === "Dark" ? true : true;
   }
 
   storeThemeSelection() {
