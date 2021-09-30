@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { InstructionService } from "../services/instruction.service";
+import { Instruction } from "../shared/instruction";
 
 @Component({
   selector: 'app-single-player',
@@ -7,9 +9,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SinglePlayerComponent implements OnInit {
 
-  constructor() { }
+  instructions: Instruction[];
+  singlePlayer: Instruction;
+
+  constructor(private instructionService: InstructionService) { }
 
   ngOnInit() {
+    this.instructions = this.instructionService.getInstructions();
+    this.singlePlayer = this.instructionService.getInstruction('single');
   }
 
 }

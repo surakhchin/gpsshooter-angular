@@ -1,34 +1,137 @@
-<mat-grid-list cols="2">
-  <mat-grid-tile>
+<!--<div value=" hey"></div>-->
+<div style="display: flex; flex-direction: column; justify-content: space-between" fxHide.gt-xs="true">
+  <div>
+    <mat-grid-list cols="2">
+      <mat-grid-tile>
 
-      <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
-        <button mat-button style="width: 100%; height: 100%; margin: 0px ">
-
-        <mat-card-content style="width: 100%; height: 100% ">
-
-
+          <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
 
 
-        </mat-card-content>
+            <a mat-button style="width: 100%; height: 100%; margin: 0px"
+            target="_blank" href="https://lasertag.cc/p7.html">
 
-        </button>
-      </mat-card>
-
-  </mat-grid-tile>
-  <mat-grid-tile>
-
-      <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
-        <button mat-button color="primary" style="width: 100%; height: 100%; margin: 0px ">
-
-        <mat-card-content style="width: 100%; height: 100% ">
+            <mat-card-content style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center  ">
 
 
 
+                <div style="height: 100%"><img src="../../assets/img/multiplayer.png" style="width: 100%; height: 100%" alt="lasergun"></div>
 
-        </mat-card-content>
 
-        </button>
-      </mat-card>
+            </mat-card-content>
 
-  </mat-grid-tile>
-</mat-grid-list>
+            </a>
+          </mat-card>
+
+      </mat-grid-tile>
+      <mat-grid-tile>
+
+          <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
+
+                               <!--<input type="text" value="User input Text to copy" #userinput>-->
+            <button mat-button color="" style="width: 100%; height: 100%; margin: 0px"
+            (click)="copyMessage('https://lasertag.cc/p7.html')"
+                    value="click to copy">
+
+
+
+             <mat-card-content style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center  ">
+
+
+
+                <div style="">
+
+                 <span id="text">click to copy link</span>
+
+
+                </div>
+
+
+
+
+            </mat-card-content>
+
+            </button>
+          </mat-card>
+
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>
+
+  <div><h6 style="padding-right:5px; padding-left:5px">Instructions: {{multiPlayer.text}}</h6></div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display: flex; flex-direction: column; justify-content: space-between" fxHide.xs="true">
+  <div>
+    <mat-grid-list cols="2" rowHeight="25rem" >
+
+
+      <mat-grid-tile>
+
+          <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
+
+            <a mat-button style="width: 100%; height: 100%; margin: 0px"
+            target="_blank" href="https://lasertag.cc/p7.html">
+
+            <mat-card-content style="width: 100%; height: 100% ">
+
+              <div style="height: 100%"><img src="../../assets/img/multiplayer.png" style=" height: 100%" alt="lasergun"></div>
+
+
+            </mat-card-content>
+
+            </a>
+          </mat-card>
+
+      </mat-grid-tile>
+
+
+      <mat-grid-tile>
+
+          <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
+
+            <button mat-button  style="width: 100%; height: 100%; margin: 0px"
+            (click)="copyMessage('https://lasertag.cc/p7.html')"
+                    value="click to copy">
+
+            <mat-card-content style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center ">
+
+
+                <div style="">
+
+                 <span id="text2">click to copy link</span>
+
+
+                </div>
+
+
+
+
+            </mat-card-content>
+
+            </button>
+          </mat-card>
+
+      </mat-grid-tile>
+    </mat-grid-list>
+  </div>
+
+  <div><h6 style="padding-right:5px; padding-left:5px">Instructions: {{multiPlayer.text}}</h6></div>
+
+</div>
+

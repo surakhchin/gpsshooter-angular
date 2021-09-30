@@ -1,34 +1,105 @@
-<mat-grid-list cols="2">
-  <mat-grid-tile>
-
-      <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
-        <button mat-button style="width: 100%; height: 100%; margin: 0px ">
-
-        <mat-card-content style="width: 100%; height: 100% ">
+<!--<h1>Test</h1>-->
 
 
+<div style="display: flex; flex-direction: column; justify-content: space-between" fxHide.gt-xs="true">
+  <div>
 
 
-        </mat-card-content>
+  <mat-grid-list cols="2" >
+    <mat-grid-tile>
 
-        </button>
-      </mat-card>
+        <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
+          <a mat-button color="primary" style="width: 100%; height: 100%; margin: 0px"
+          target="_blank" href="https://lasertag.cc/gun.html">
 
-  </mat-grid-tile>
-  <mat-grid-tile>
-
-      <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
-        <button mat-button style="width: 100%; height: 100%; margin: 0px ">
-
-        <mat-card-content style="width: 100%; height: 100% ">
+          <mat-card-content style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center ">
 
 
+            <div><img src="../../assets/img/lasergun.png" style="width: 100%" alt="lasergun"></div>
+
+          </mat-card-content>
+
+          </a>
+        </mat-card>
+
+    </mat-grid-tile>
+    <mat-grid-tile>
+
+          <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
+            <a mat-button color="primary" style="width: 100%; height: 100%; margin: 0px "
+            target="_blank" href="https://lasertag.cc/target.html">
+
+            <mat-card-content style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center ">
 
 
-        </mat-card-content>
+              <div><img src="../../assets/img/target.png" style="width: 100%" alt="target"></div>
 
-        </button>
-      </mat-card>
+            </mat-card-content>
 
-  </mat-grid-tile>
-</mat-grid-list>
+            </a>
+          </mat-card>
+
+      </mat-grid-tile>
+    </mat-grid-list>
+
+  </div>
+
+    <div>
+      <h6 style="padding-right:5px; padding-left:5px">Instructions: {{singlePlayer.text}}</h6>
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+<div style="display: flex; flex-direction: column; justify-content: space-between" fxHide.xs="true">
+  <div>
+
+
+    <mat-grid-list cols="2" rowHeight="25rem">
+      <mat-grid-tile>
+
+          <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
+            <a mat-button  style="width: 100%; height: 100%; margin: 0px "
+            target="_blank" href="https://lasertag.cc/gun.html">
+
+            <mat-card-content style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center ">
+
+
+              <div><img src="../../assets/img/lasergun.png" style="width: 100%" alt="lasergun"></div>
+
+            </mat-card-content>
+
+            </a>
+          </mat-card>
+
+      </mat-grid-tile>
+      <mat-grid-tile>
+
+            <mat-card style="width: 100%; height: 100%; padding: 0px; margin: 0px">
+              <a mat-button color="primary" style="width: 100%; height: 100%; margin: 0px "
+              target="_blank" href="https://lasertag.cc/target.html">
+
+             png <mat-card-content style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center ">
+
+
+                <div><img src="../../assets/img/target.png" style="width: 100%" alt="target"></div>
+
+              </mat-card-content>
+
+              </a>
+            </mat-card>
+
+        </mat-grid-tile>
+      </mat-grid-list>
+
+    </div>
+    <div><h6 style="padding-right:5px; padding-left:5px">Instructions: {{singlePlayer.text}}</h6></div>
+
+
+</div>

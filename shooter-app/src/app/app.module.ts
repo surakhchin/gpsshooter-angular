@@ -1,5 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import {APP_BASE_HREF} from '@angular/common';
+
 
 import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
@@ -17,10 +19,7 @@ import {
   MatIconModule, MatButtonModule, MatSidenavModule, MatToolbarModule, MatSlideToggleModule, MatCardModule, MatGridListModule
 } from '@angular/material';
 
-
-
-
-
+import {InstructionService} from "./services/instruction.service";
 
 
 @NgModule({
@@ -46,7 +45,7 @@ import {
     MatGridListModule,
     MatButtonModule
   ],
-  providers: [],
+  providers: [{provide: APP_BASE_HREF, useValue: '/'}, InstructionService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
